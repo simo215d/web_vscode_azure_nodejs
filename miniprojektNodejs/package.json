@@ -1,0 +1,15 @@
+{
+  "name": "miniprojektnodejs",
+  "version": "1.0.0",
+  "description": "Min aflevering til fuld stack website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nice"
+  ],
+  "author": "Simon Grove",
+  "license": "ISC"
+}
