@@ -6,7 +6,7 @@ Min hjemmeside findes her: [simonweb.ninja](http://simonweb.ninja)
 
 Jeg brugte azure til, at være min hosting provider, hvor mine scripts og html filer ligger.
 
-Til sidst fik jeg et gratis domæne fra name.com. I dens DNS settings, satte jeg min azure information, så mit domæne pejede på min server i azure.
+Til sidst fik jeg et gratis domæne fra name.com. I dens DNS settings, satte jeg min azure information, så mit domæne pejede på min server i azure. Jeg fulgte denne tutorial: https://www.youtube.com/watch?v=BrJtpCV_foU
 
 
 I min package.json er der i scripts en der hedder start, som pejer på min index.js, </br>som er den fil som min webserver i azure bliver kørt som det første. </br>Den venter så på at den får en request fra en browser, og baseret på url, </br>som de 3 knapper pejer på, så returnere den en html fil i response. </br>
