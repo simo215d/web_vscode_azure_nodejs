@@ -6,6 +6,8 @@ Min hjemmeside findes her: [simonweb.ninja](http://simonweb.ninja)
 
 Jeg brugte azure til, at være min hosting provider, hvor mine scripts og html filer ligger. Jeg brugte en azure extenstion til vs-code til at uploade min filer.
 
+Kommandoen: Azure app service: deploy to web app
+
 Til sidst fik jeg et gratis domæne fra name.com. I dens DNS settings, satte jeg min azure information, så mit domæne pejede på min server i azure. Jeg fulgte denne tutorial: https://www.youtube.com/watch?v=BrJtpCV_foU
 Det vigtige her er at man laver de der dns records med i name.com som pejer på simonweb.azurewebsites.net så azure håndtere hjemmesiden.
 
